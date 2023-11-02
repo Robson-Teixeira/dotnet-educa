@@ -1,0 +1,53 @@
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\bin\Debug\EDUCA.exe.config
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\bin\Debug\EDUCA.exe
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\bin\Debug\EDUCA.pdb
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.csprojResolveAssemblyReference.cache
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.Splash.resources
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.Properties.Resources.resources
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.csproj.GenerateResource.Cache
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.exe
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.pdb
+c:\users\ágatha\documents\visual studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.usuarios.resources
+C:\Users\Ágatha\Documents\Visual Studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.Cadastro.resources
+C:\Users\Ágatha\Documents\Visual Studio 2013\Projects\EDUCA\EDUCA\obj\Debug\EDUCA.Home.resources
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\bin\Debug\EDUCA.exe.config
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.exe
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.pdb
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\bin\Debug\EDUCA.exe
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\bin\Debug\EDUCA.pdb
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.csprojResolveAssemblyReference.cache
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.Cadastro.resources
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.Home.resources
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.Splash.resources
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.Properties.Resources.resources
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.Usuarios.resources
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.csproj.GenerateResource.Cache
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.Alfabeto.resources
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\EDUCA.csproj.ResolveComReference.cache
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ágatha\Desktop\EDUCA\EDUCA\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Git\dotnet-educa\Educa\EDUCA\bin\Debug\EDUCA.exe.config
+C:\Git\dotnet-educa\Educa\EDUCA\bin\Debug\EDUCA.exe
+C:\Git\dotnet-educa\Educa\EDUCA\bin\Debug\EDUCA.pdb
+C:\Git\dotnet-educa\Educa\EDUCA\bin\Debug\Interop.WMPLib.dll
+C:\Git\dotnet-educa\Educa\EDUCA\bin\Debug\AxInterop.WMPLib.dll
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.csproj.AssemblyReference.cache
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\Interop.WMPLib.dll
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\AxInterop.WMPLib.dll
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.csproj.ResolveComReference.cache
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.Alfabeto.resources
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.Cadastro.resources
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.Home.resources
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.Splash.resources
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.Properties.Resources.resources
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.Usuarios.resources
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.csproj.GenerateResource.cache
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.csproj.CoreCompileInputs.cache
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.exe
+C:\Git\dotnet-educa\Educa\EDUCA\obj\Debug\EDUCA.pdb
